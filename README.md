@@ -7,7 +7,7 @@ Traveling between Design and Code Worlds
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [https://mrwolf.digital/](http://mrwolf.digital/)
 * ✉️  You can contact me at [wesleymacente@gmail.com](mailto:wesleymacente@gmail.com)
-* 🧠  I'm learning Vanilla JS, Laravel and ReactJS
+* 🧠  I'm learning English, Vanilla JS, Laravel and ReactJS
 
 ### Skills
 
