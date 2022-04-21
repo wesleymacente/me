@@ -1,7 +1,7 @@
 Hi 👋 My name is Wesley Macente
 ===============================
 
-Traveling between Design and Developer Worlds
+Traveling between Design and Code Worlds
 ---------------------------------------------
 
 * 🌍  I'm based in Brazil
